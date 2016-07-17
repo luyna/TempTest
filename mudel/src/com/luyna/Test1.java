@@ -13,5 +13,6 @@ public class Test1 {
     public static void main(String[] args) {
         Test1 ha = new Test1("luyna123");
         System.out.println(ha.toString());
+        System.out.println("hhahah");
     }
 }
